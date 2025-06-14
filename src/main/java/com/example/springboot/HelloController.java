@@ -19,7 +19,7 @@ public class HelloController {
                "        h1 { color: #2e8b57; text-decoration: underline; }" +
                "        h2 { color: #8a2be2; text-decoration: underline dotted; }" +
                "        p { color: #333; line-height: 1.6; font-size: 18px; }" +
-               "        .highlight { color: #d2691e; font-weight: bold; text-decoration: underline wavy red; }" +
+               "        .highlight { color: #d2691e; font-weight: bold; text-decoration: underline; }" +  // Changed here
                "        .quote { font-style: italic; color: #555; background-color: #e6f7ff; padding: 10px; border-left: 5px solid #2e8b57; }" +
                "    </style>" +
                "</head>" +
