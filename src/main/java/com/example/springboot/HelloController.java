@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 
     @GetMapping("/hello")
-    public String hello() {
-        return "Hello, World!";
+    public String helloPage() {
+        return "hello";  // this resolves to templates/hello.html
     }
 }
