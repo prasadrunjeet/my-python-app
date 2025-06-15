@@ -15,9 +15,9 @@ public class HelloController {
                "<head>" +
                "    <title>Mahatma Gandhi</title>" +
                "    <style>" +
-               "        body { background-color: #f0f8ff; font-family: Arial, sans-serif; padding: 30px; }" +
+               "        body { background-color:rgb(83, 72, 133); font-family: Arial, sans-serif; padding: 30px; }" +
                "        h1 { color: #2e8b57; text-decoration: underline; }" +
-               "        h2 { color: #8a2be2; text-decoration: underline dotted; }" +
+               "        h2 { color:rgb(43, 226, 156); text-decoration: underline dotted; }" +
                "        p { color: #333; line-height: 1.6; font-size: 18px; }" +
                "        .highlight { color: #d2691e; font-weight: bold; text-decoration: underline; }" +  // Changed here
                "        .quote { font-style: italic; color: #555; background-color: #e6f7ff; padding: 10px; border-left: 5px solid #2e8b57; }" +
